@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Linearly interpolate between two numbers, boolean, or enum by an extrapolation factor.

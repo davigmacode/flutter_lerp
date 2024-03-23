@@ -1,5 +1,17 @@
 {
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+  },
   "cSpell.words": [
-    "lerp"
+    "lerp",
+    "davigmacode",
+    "Diagnosticable",
+    "Irfan",
+    "lerp",
+    "LTRB",
+    "Taufik",
+    "Vigma",
+    "Widgetarian"
   ]
 }
